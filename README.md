@@ -1,0 +1,1 @@
+I'm a software development "hobbyist" from Toronto, Canada. I'm a **Director** at **Deloitte Canada**, specializing in the Architecture of system-to-system integrations -- especially APIs -- but this GH account is for my personal code.
