@@ -3,4 +3,4 @@ I'm a software development "hobbyist" from Toronto, Canada. I'm a **Director** a
 - ✏ I'm currently working on the [Devouring Scripture website](https://github.com/sernaferna/ds-wireframes) (not yet deployed)
 - 📖 I was the primary author of *Beginning XML* (Wrox Press) for the first four editions
 - 🧑‍🏫 I'm currently learning React, Express, Bootstrap, and Node in general
-- 🎸 Fun facts: I play the guiar, and was 
+- 🎸 Fun facts: I play the guitar
